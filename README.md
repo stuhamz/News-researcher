@@ -40,8 +40,6 @@ The application architecture includes:
 - **Database:** PostgreSQL for storing articles, summaries, and user notes.
 - **AI Integration:** Summarization through an external AI service.
 
-![Architecture Diagram](sys3.png)
-
 ---
 
 ##  Workflow
