@@ -1,6 +1,6 @@
 # 📰 News Researcher – AI-Powered News Summarizer
 
-![News Researcher Logo](your-logo-url-here)
+![News Researcher Logo](logo3.png)
 
 ---
 
@@ -40,7 +40,7 @@ The application architecture includes:
 - **Database:** PostgreSQL for storing articles, summaries, and user notes.
 - **AI Integration:** Summarization through an external AI service.
 
-![Architecture Diagram](your-architecture-image-url-here)
+![Architecture Diagram](sys3.png)
 
 ---
 
